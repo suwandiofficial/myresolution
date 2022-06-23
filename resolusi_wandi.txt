@@ -2,3 +2,4 @@ Inilah resolusi saya  :
 
 - Belajar Front End
 - Belajar UX/UI
+- Belajar CI/CI
